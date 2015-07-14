@@ -28,7 +28,7 @@ It relies on a couple of other modules.
 
 Issuing `./crawl_site.js` will display help on the script usage.
 
-    ./crawl_site.js [-a, --agent <User Agent>] [-d, --depth <depth>] [-i, --interval <interval>] [-p, --parallel <threads>] [-s, --silent] <URL>
+    crawl_site.js [-a, --agent <User Agent>] [-d, --depth <depth>] [-i, --interval <interval>] [-p, --parallel <threads>] [-s, --silent] <URL>
 
 where:
  * `<User Agent>`: the value of the `User-Agent` HTTP header (default:
