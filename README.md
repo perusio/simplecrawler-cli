@@ -14,7 +14,7 @@ It relies on a couple of other modules.
 ## Installation
 
  1. git clone this repository.
- 2. Install Node Simple Crawler:
+ 2. Install simplecrawler:
  
         npm install simplecrawler
  3. Install commander.js:
