@@ -45,7 +45,7 @@ where:
 
 ### Example
 
-    ./crawl_iste.js -d 3 -p 10 -s https://example.com/foobar
+    crawl_site.js -d 3 -p 10 -s https://example.com/foobar
 
 Crawl the `https://example.com` iste starting at path `/foobar`
 recursively following links up to **three** levels with 10 concurrent
