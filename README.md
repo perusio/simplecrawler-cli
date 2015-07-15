@@ -26,7 +26,7 @@ It relies on a couple of other modules.
 
 ## Usage
 
-Issuing `./crawl_site.js` will display help on the script usage.
+Issuing `crawl_site.js` will display help on the script usage.
 
     crawl_site.js [-a, --agent <User Agent>] [-d, --depth <depth>] [-i, --interval <interval>] [-p, --parallel <threads>] [-s, --silent] <URL>
 
